@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 I build machine learning projects and write about algorithms, data, and engineering.
