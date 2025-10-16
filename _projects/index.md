@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /projects/
+title: Projects
 ---
 {% for project in site.projects %}
 <div class="project-card">
