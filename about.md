@@ -1,9 +1,8 @@
 ---
 layout: page
+title: About
 permalink: /about/
 ---
-
-## About me
 
 I’m currently a senior at Brigham Young University majoring in Machine Learning with a minor in Mathematics expecting to graduate in April 2026. After graduation, I plan to pursue a Master’s in Computer Science.
 
